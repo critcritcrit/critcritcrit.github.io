@@ -1,4 +1,4 @@
-var int donuts = 0;
+var donuts = 0;
 
 
 // setInterval("function", time(in millisecs))
